@@ -3,7 +3,16 @@ Super Editor is a versatile Unity editor extension that includes a powerful, eas
 
 **“Create a game, all in one Unity”**
 
-### Markdown
+### Description
+
+Super Editor is a versatile Unity editor extension that includes three modules, a powerful, easy-to-use built-in IDE, a Hieararchy enhancements, and a Favorites enhancements.
+
+Unity's built-in IDE is a intelligent code window for C#, USS, UXML, Shader, Text, Prefab, Scene, and any text Asset, it contains code Automatic completion, keyword searching and replacing, custom themes, and so on. You don't need to switch visual studio or VS Code anymore, which can significantly simplify the development process.
+
+Hieararchy enhancements is an editor extension that adds some often used functions to the hierarchy window, which can significantly simplify the development process.
+
+Favorites enhancements is a favorites panel for Unity3D to list all your favorites assets or scene gameobjects in your project, which can significantly simplify the development process.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
