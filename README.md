@@ -1,9 +1,7 @@
 # ![Super Editor](https://github.com/UnitySuperEditor/SuperEditor/blob/master/SuperEditorLogo.jpg)
-## Welcome to GitHub Pages
+Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
 
-You can use the [editor on GitHub](https://github.com/UnitySuperEditor/SuperEditor/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**“Create a game, all in one Unity”**
 
 ### Markdown
 
