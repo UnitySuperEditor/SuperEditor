@@ -5,7 +5,13 @@ Super Editor is a versatile Unity editor extension that includes a powerful, eas
 
 ### Description
 
-Super Editor is a versatile Unity editor extension that includes three modules, a powerful, easy-to-use built-in IDE, a Hieararchy enhancements, and a Favorites enhancements.
+Super Editor is a versatile Unity editor extension that includes three modules: 
+
+1. A powerful, easy-to-use built-in IDE, 
+
+2. A Hieararchy enhancements,
+
+3. A Favorites enhancements.
 
 Unity's built-in IDE is a intelligent code window for C#, USS, UXML, Shader, Text, Prefab, Scene, and any text Asset, it contains code Automatic completion, keyword searching and replacing, custom themes, and so on. You don't need to switch visual studio or VS Code anymore, which can significantly simplify the development process.
 
