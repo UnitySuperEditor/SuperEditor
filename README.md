@@ -21,7 +21,10 @@ and see the results instantly without restarting Unity or recompiling scripts.
 
 # ![CustomTheme](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/CustomTheme.gif)
 
-[![Hot reload animation][]][Hot reload]
+### Code Template
+Super editor provides the most simple and easy to use code template system, you do not need to know any rules, just need to create a new text file can define your own code hints.
+
+# ![CodeTemplate](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/CodeTemplate.gif)
 
 Hieararchy enhancements is an editor extension that adds some often used functions to the hierarchy window, which can significantly simplify the development process.
 
