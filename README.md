@@ -30,6 +30,12 @@ Super editor provides the most simple and easy to use code template system, you 
 
 Hieararchy enhancements is an editor extension that adds some often used functions to the hierarchy window, which can significantly simplify the development process.
 
+### Edit scripts Quickly
+Hieararchy enhancements lists GameObject's all components. You can right-click on component icon to quickly edit the script, or you can drag and drop the object directly to access the scripts that are on the GameObject.
+
+# ![QuicklyEditScripts](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/QuickOpenScripts.gif)
+
+
 Favorites enhancements is a favorites panel for Unity3D to list all your favorites assets or scene gameobjects in your project, which can significantly simplify the development process.
 
 
