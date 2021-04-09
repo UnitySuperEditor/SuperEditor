@@ -1,4 +1,4 @@
-# ![Super Editor](https://github.com/UnitySuperEditor/SuperEditor/blob/master/SuperEditorLogo.jpg)[https://assetstore.unity.com/packages/tools/utilities/super-editor-190349]
+# [![Super Editor logo][]][assetstore]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/UnitySuperEditor/SuperEditor)
 
 Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
@@ -44,4 +44,8 @@ Some of the more complex Projects or GameObjects need a tool to help developers 
 # ![FavoritePanel](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/FavoritePanel.gif)
 
 
+
+
+[Super Editor logo]: https://github.com/UnitySuperEditor/SuperEditor/blob/master/SuperEditorLogo.jpg
+[assetstore]: https://assetstore.unity.com/packages/tools/utilities/super-editor-190349
 
