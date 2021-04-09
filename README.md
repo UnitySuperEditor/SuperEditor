@@ -38,5 +38,10 @@ Hieararchy enhancements lists GameObject's all components. You can right-click o
 
 Favorites enhancements is a favorites panel for Unity3D to list all your favorites assets or scene gameobjects in your project, which can significantly simplify the development process.
 
+### Favorite Panel
+Some of the more complex Projects or GameObjects need a tool to help developers quickly select objects. The following gif shows the quick selection of players' left and right hands(so that you can easily put weapons and items into the hands.) You can drag objects from the Hierarchy or Project into this panel.
+
+# ![FavoritePanel](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/FavoritePanel.gif)
+
 
 
