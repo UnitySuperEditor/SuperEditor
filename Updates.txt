@@ -1,0 +1,87 @@
+# SuperEditor 1.2.1
+
+## Bug Fixes
+- Fix a font path error when moving files on Windows and Linux platforms,if you encounter an error, just right-click on Project Window and reimport SuperEditor.
+- Fix Replace window result excessive length of path string display problem
+
+## Features
+- Refactor the Hierarchy enhancement code to beautify the appearance in Unity 2020 2021
+- Now you can turn off Hierarchy enhancements or customizations in the free version
+
+## Changes
+- Rewrite the processing logic of Setting->Hierarchy to optimize the Free Version experience
+- Optimize the experience of opening Windows in the free version
+
+
+
+# SuperEditor 1.2.0
+
+## Bug Fixes
+- Fix a very long time text flicker issue. It is recommended that everyone use this version 1.2.0 or higher
+
+## Changes
+- Beautify the search bar up/down icons
+
+
+
+# SuperEditor 1.1.2
+
+## Bug Fixes
+- Fix scrollbar flashing when reverse selecting
+
+## Changes
+- Optimize the mouse scrolling experience of the code prompt window
+
+
+
+# SuperEditor 1.1.1
+
+## Bug Fixes
+- Fix unsupported syntax errors
+
+## Changes
+- Add new code template files
+- Redesign the appearance of switcher
+
+
+
+# SuperEditor 1.1.0
+
+## Bug Fixes
+- Fix some UI Show color issues
+- Fix reference window last line overlaps with the scrollbar
+- Fix Icon duplication when window name is repeated
+- Fix Microsoft Doc link Error
+- Fix default Fonts flicker
+
+## Features
+- Increases the speed of reference searches by 80% and enables background searches and  multithreaded searches
+
+## Changes
+- Optimize  filewindow switcher appearance
+
+
+
+# SuperEditor 1.0.2
+
+## Bug Fixes
+- Fix "?." error hint
+- Fix Expression body error hint
+
+
+
+# SuperEditor 1.0.1
+
+## Bug Fixes
+- Fix Setting Icon disappearing when click play
+- Fix Crash when using Cinemachine
+
+## Changes
+- Search method add package folder
+
+
+
+# SuperEditor 1.0.0
+
+## Features
+-First release
