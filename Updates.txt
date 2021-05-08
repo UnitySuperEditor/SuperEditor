@@ -11,7 +11,7 @@
 ## Changes
 - The Pro version removes the Add or Remove to Favorites menu option to keep it simple
 - Modified part of the description of the Settings window
-
+- Remove all path access APIs provided by Microsoft and replace them with those inside UnityEditor
 
 
 # SuperEditor 1.2.1
