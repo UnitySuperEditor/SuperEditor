@@ -1,3 +1,16 @@
+# SuperEditor 1.3.0
+
+## Bug Fixes
+- Fix a huge cursor blinking issue when the input code no auto-completes
+- Fix the code template system for inserting template exceptions when there is a text after a line
+- Fix multi-platform font fetching exceptions
+
+## Changes
+- Accelerate the display speed of component name in Hierarchy so that you can quickly view the component name
+- SuperEditor focuses on improving the development experience, keeping simple designs. if you encounter any bugs, feel free to report on GitHub
+
+
+
 # SuperEditor 1.2.2
 
 ## Bug Fixes
