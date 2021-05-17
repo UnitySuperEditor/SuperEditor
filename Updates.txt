@@ -1,3 +1,20 @@
+# SuperEditor 1.4.0
+
+## Features
+- Redesign the logic for using Favorites,Now you can drag and drop custom sorts, or you can auto-sort alphabetically
+- The saved GameObjects reference in Favorites Enhancement can be saved on disk and won't disappear when the scene is switched or the editor is restarted
+- Redesign the Rename function to replace by reference, unlike Replace function, which replaces by text search
+
+## Bug Fixes
+- Fix tab not being able to switch jumps except for script, shader and text resources
+
+## Changes
+- Resize GotoLine Window to make it look better
+- Adjust the navigation bar text not to overlap with region button
+- Organize the directory structure and remove non-standard file names
+
+
+
 # SuperEditor 1.3.0
 
 ## Bug Fixes
