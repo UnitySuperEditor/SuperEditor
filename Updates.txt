@@ -1,3 +1,14 @@
+# SuperEditor 1.4.1
+
+## Bug Fixes
+- Fix error in jump function for large C# files
+- Fix an issue with Double Byte Character Set selection rect
+
+## Changes
+- Changed SuperEditor's minimum supported Unity version to 2019.4.0
+
+
+
 # SuperEditor 1.4.0
 
 ## Features
