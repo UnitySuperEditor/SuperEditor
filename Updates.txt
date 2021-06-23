@@ -1,3 +1,23 @@
+# SuperEditor 1.5.0
+
+## Bug Fixes
+- Fix an issue where the name of the first GameObject component in the Hierarchy was occluded in Prefab edit mode
+- Fix horizontal scrollbar flashing in text/reference search results window
+
+## Changes
+- Removed the free version's 4 window limit to avoid a bad experience
+- Simplify closing window functionality and description
+- Simplifies redundant descriptions of loading information
+- Simplifies redundant descriptions of menu bar
+
+## Features
+- Add new Boost Text/Reference Search Speed option
+- Add new option to customize toolbar information. You can customize whether or not to display the last modified date, file size, file directory, or not
+- Modularize the Toolbar and navigation bar so that you can customize the display
+- Add dynamic searchBar, which will automatically appear after you close the toolbar by pressing Ctrl/Command+F
+
+
+
 # SuperEditor 1.4.1
 
 ## Bug Fixes
