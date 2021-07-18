@@ -7,6 +7,10 @@ Super Editor is a versatile Unity editor extension that includes a powerful, eas
 
 Free to Download from [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
 
+## Requirement
+
+Unity 2019.4.0f1 or newer
+
 ## Description
 
 Super Editor is a versatile Unity editor extension that includes three modules: 
