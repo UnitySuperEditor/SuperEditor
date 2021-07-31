@@ -3,7 +3,7 @@
 
 Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hierarchy enhancements, and Favorite enhancements，These three modules are useful tools for almost any Unity game project or XR project.
 
-**“Create a game, all in one Unity, Say goodbye to VS and VS Code.”**
+**“Create a game, all in one Unity”**
 
 Free to download from [Here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v1.5.1/SuperEditor1.5.1.unitypackage)
 or [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
