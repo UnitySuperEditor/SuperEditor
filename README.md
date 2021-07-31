@@ -1,7 +1,7 @@
 # [![Super Editor logo][]][assetstore]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/UnitySuperEditor/SuperEditor)
 
-Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hieararchy enhancements, and Favorites enhancements
+Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hierarchy enhancements, and Favorite enhancements，These three modules are useful tools for almost any Unity game project or XR project.
 
 **“Create a game, all in one Unity, Say goodbye to VS and VS Code.”**
 
@@ -18,7 +18,7 @@ Super Editor is a versatile Unity editor extension that includes three modules:
 
 1. A powerful, easy-to-use built-in IDE, 
 
-2. A Hieararchy enhancements,
+2. A Hierarchy enhancements,
 
 3. A Favorites enhancements.
 
@@ -35,10 +35,10 @@ Super editor provides the most simple and easy to use code template system, you 
 
 # ![CodeTemplate](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/CodeTemplate.gif)
 
-Hieararchy enhancements is an editor extension that adds some often used functions to the hierarchy window, which can significantly simplify the development process.
+Hierarchy enhancements is an editor extension that adds some often used functions to the hierarchy window, which can significantly simplify the development process.
 
 ### Edit scripts Quickly
-Hieararchy enhancements lists GameObject's all components. You can right-click on component icon to quickly edit the script, or you can drag and drop the object directly to access the scripts that are on the GameObject.
+Hierarchy enhancements lists GameObject's all components. You can right-click on component icon to quickly edit the script, or you can drag and drop the object directly to access the scripts that are on the GameObject.
 
 # ![QuicklyEditScripts](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/QuickOpenScripts.gif)
 
