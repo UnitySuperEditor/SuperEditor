@@ -1,9 +1,10 @@
 # [![Super Editor logo][]][assetstore]
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/UnitySuperEditor/SuperEditor)
 
-Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hierarchy enhancements, and Favorite enhancements，These three modules are useful tools for almost any Unity game project or XR project.
+**Unity 2021 + Super Editor = The Coolest Creation Machine In The World**
+# ![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/TheCoolestUnity.gif)
 
-**“Create a game, all in one Unity”**
+Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hierarchy enhancements, and Favorite enhancements，These three modules are useful tools for almost any Unity project.
 
 Free to download from [Here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v1.5.1/SuperEditor1.5.1.unitypackage)
 or [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
@@ -23,7 +24,6 @@ Super Editor is a versatile Unity editor extension that includes three modules:
 3. A Favorites enhancements.
 
 Unity's built-in IDE is a intelligent code window for C#, USS, UXML, Shader, Text, Prefab, Scene, and any text Asset, it contains code Automatic completion, keyword searching and replacing, custom themes, and so on. You don't need to switch visual studio or VS Code anymore, which can significantly simplify the development process.
-# ![CustomizeNavigationbarToolbar](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/CustomizeNavigationbarToolbar.gif)
 ### Custom Theme
 Super Editor offers Dynamic theme change, allowing you to make changes to your favorite theme
 and see the results instantly without restarting Unity or recompiling scripts.
