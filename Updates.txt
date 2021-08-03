@@ -1,3 +1,23 @@
+# SuperEditor 1.6.0
+
+## Features
+- Replace the full set of symbol icons for Visual Studio for Mac built-in flat icons, more intuitive and concise
+- Add a new option left-click Icon to Enable/Disable Component. The default status is disabled
+
+## Changes
+- Adjust update link and part of the highlighting prompt adjustment
+- Simplify window closing shortcuts on Mac and Linux
+- In the Pro version, the Super Editor Settings has been added to the Unity Editor Preference window
+- Redesign the icons and logic of the Hierarchy Renderer and Prefab components
+- Redesign the hierarchy display of hide icons if not fit
+- Remove some redundant Hierarchy enhancements
+
+## Bug Fixes
+- Fix an issue where closing shortcuts would not work when changing window maximization
+- Fix an issue with the code prompt window showing lag when typing quickly in Unity 2021
+
+
+
 # SuperEditor 1.5.1
 
 ## Bug Fixes
