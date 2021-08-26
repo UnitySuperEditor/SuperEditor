@@ -1,3 +1,22 @@
+# SuperEditor 1.6.1
+
+## Features
+- Add the Enable Inspector View feature (Pro only)
+- Add a new option to hide Namespace. The default option is enabled to make the interface more concise. Pro version can customize whether to display the hide Namespace
+- Add the Auto Refresh linkage mode. If Auto Refresh is not enabled, saving code will not compile immediately
+
+## Changes
+- Rewrite the SearchField in the toolbar to look the same as the Built-in SearchField in the Unity Editor
+- Add the Write a Review option
+- Set the minimum size of the code window to avoid abnormal display
+
+## Bug Fixes
+- Fix the NullReference exception when a Namespace was deleted
+- Fix an issue where the indexer code navigation bar was displayed abnormally
+- Correct some spelling mistakes
+
+
+
 # SuperEditor 1.6.0
 
 ## Features
