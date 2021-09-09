@@ -1,3 +1,14 @@
+# SuperEditor 1.7.0
+
+## Changes
+- Internal code structure optimization and refactoring, for the advancement of the industry, Super Editor and Super Editor Pro are merged, all functions are now free to use
+- Part of the icon resolution adjustment
+
+## Bug Fixes
+- Fix a long-standing bug from 1.0 to 1.6.1 that caused icons to disappear when loading new scene
+
+
+
 # SuperEditor 1.6.1
 
 ## Features
