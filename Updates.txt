@@ -1,3 +1,18 @@
+# SuperEditor 1.7.1
+
+## Features
+- Support System, System.IO, System.Reflection, System.Xml, Sytem.Collections namespace classes and interfaces and functions etc for use description
+- Now you can automatically update with one click, redesign the Check for Updates panel
+
+## Changes
+- Optimize the speed of displaying component names in the Hierarchy enhancement
+- Adjust the description of some dialog boxes
+
+## Bug Fixes
+- Fix missing tooltips for some common Unity classes and structs (e.g. Vector3)
+
+
+
 # SuperEditor 1.7.0
 
 ## Changes
