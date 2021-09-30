@@ -1,5 +1,4 @@
 # [![Super Editor logo][]][assetstore]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/UnitySuperEditor/SuperEditor)
 
 **Unity 2021 + Super Editor = The Coolest Creation Machine In The World**
 # ![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/TheCoolestUnity.gif)
