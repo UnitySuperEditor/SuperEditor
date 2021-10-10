@@ -1,3 +1,16 @@
+# SuperEditor 1.8.0
+
+## Features
+- Compared to version 1.7.1, reference search is 10 times faster and reference jump is faster than VS and VS Code in most cases
+- All.NET API reference documents are supported, and Super Editor automatically downloads and analyzes relevant XML documents from GitHub.
+- Improve the performance of Hierarchy Enhancement, save CPU resources and power compared with version 1.7.1.
+- Tooltips support two types of comments (// and ///)
+
+## Bug Fixes
+- Fix poor scrolling experience in Word Wrap mode
+
+
+
 # SuperEditor 1.7.1
 
 ## Features
