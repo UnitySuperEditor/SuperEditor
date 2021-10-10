@@ -2,7 +2,7 @@
 
 ## Features
 - Compared to version 1.7.1, reference search is 10 times faster and reference jump is faster than VS and VS Code in most cases
-- All.NET API reference documents are supported, and Super Editor automatically downloads and analyzes relevant XML documents from GitHub.
+- All .NET API reference documents are supported, and Super Editor automatically downloads and analyzes relevant XML documents from GitHub.
 - Improve the performance of Hierarchy Enhancement, save CPU resources and power compared with version 1.7.1.
 - Tooltips support two types of comments (// and ///)
 
