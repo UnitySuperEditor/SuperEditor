@@ -1,3 +1,15 @@
+# SuperEditor 1.8.1
+
+## Changes
+- Optimize the interface of the Reference Window and redesign the buttons to be more concise
+- Optimize automatic download and analysis of XML document experience, super Editor will automatically display after downloading
+- Optimize Inspector-view presentation
+## Bug Fixes
+- Fix array index out of range exception
+- Fix an issue where tooltip automatic identification ignored attributes
+
+
+
 # SuperEditor 1.8.0
 
 ## Features
