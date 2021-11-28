@@ -1,3 +1,12 @@
+# SuperEditor 1.8.2
+
+## Bug Fixes
+- Fix shortcut key failure when mouse click on List Tooltip
+- Fix an issue where the lower edge of the Inspector-View not responding
+- Fix delegate void type tooltip show unknown type
+
+
+
 # SuperEditor 1.8.1
 
 ## Changes
