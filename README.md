@@ -28,6 +28,11 @@ Unity's built-in IDE contains code Automatic completion, keyword searching and r
 
 ![Tooltip](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/Tooltip.gif)
 
+## Vision
+Use AI to write programs
+
+In a future version of Super Editor, you will be able to use tooltip to connect to all of the algorithms commonly used on the Internet and modular functions commonly used in games. You will also be able to connect to your own private AI, also known as AI writing programs. This feature will greatly improve your creative ability.
+
 [Super Editor logo]: https://github.com/UnitySuperEditor/SuperEditor/blob/master/SuperEditorLogo.jpg
 [assetstore]: https://assetstore.unity.com/packages/tools/utilities/super-editor-190349
 
