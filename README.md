@@ -2,7 +2,7 @@
 
 ## **Unity 2021 + Super Editor = The Coolest Creation Machine In The World** ##
 
-![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/TheCoolestUnity.gif)
+![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor1.8.3.gif)
 
 Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hierarchy enhancements, and Favorite enhancements，These three modules are useful tools for almost any Unity project.
 
