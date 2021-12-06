@@ -1,3 +1,17 @@
+# SuperEditor 1.8.3
+
+## Features
+- Add the List Tooltip of tip
+
+## Changes
+- Change some of the internal descriptions
+
+## Bug Fixes
+- Fix tooltip memory leak this issue starting with version 1.8.0
+- Fix When switching Unity Layout in Wordwrap mode, vertical scrollbar may be stuck at the bottom
+
+
+
 # SuperEditor 1.8.2
 
 ## Bug Fixes
