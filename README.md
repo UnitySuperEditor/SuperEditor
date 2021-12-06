@@ -18,11 +18,11 @@ Unity 2019.4.0f1 or newer
 
 Super Editor is a versatile Unity editor extension that includes three modules: 
 
-1. A powerful, easy-to-use built-in IDE, 
+1. A Super IDE, 
 
-2. A Hierarchy enhancements,
+2. A Super Hierarchy,
 
-3. A Favorites enhancements.
+3. A Super Favorites.
 
 Unity's built-in IDE contains code Automatic completion, keyword searching and replacing, custom themes, and so on. You don't need to switch visual studio or VS Code anymore,because it was created specifically for Unity. You just need to drag and drop Super Editor into your project, development projects become a treat.
 
