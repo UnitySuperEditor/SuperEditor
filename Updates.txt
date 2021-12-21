@@ -12,9 +12,7 @@
 - Fix tooltip misplacement when code prompts were reversed
 - Fix tooltip pressing up and down keys to see overloaded function descriptions disappear
 - Fix code template function index overflow
-- Fix Ctrl/Cmd + S shortcut key failure when search bar is selectedy Layout in Wordwrap mode, vertical scrollbar may be stuck at the bottom
-
-
+- Fix Ctrl/Cmd + S shortcut key failure when search bar is selected
 
 # SuperEditor 1.8.3
 
