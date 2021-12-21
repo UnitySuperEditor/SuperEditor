@@ -1,3 +1,21 @@
+# SuperEditor 1.8.4
+
+## Features
+- Super Hierarchy adds the ContextMenu for the icon component by right-clicking it
+
+## Changes
+- Reduce the max size of the tooltip to avoid excessively large Windows
+- Remove gaps in the code prompt scroll bar to improve aesthetics
+- Change “Window/Super Editor/Reset to Factory Settings” Menu Function, The SuperEditor theme preference in editorPref will be removed，By default, Unity Light theme corresponds to Super Editor Xcode theme and Unity Dark theme corresponds to Super Editor Visual Studio Dark theme
+
+## Bug Fixes
+- Fix tooltip misplacement when code prompts were reversed
+- Fix tooltip pressing up and down keys to see overloaded function descriptions disappear
+- Fix code template function index overflow
+- Fix Ctrl/Cmd + S shortcut key failure when search bar is selectedy Layout in Wordwrap mode, vertical scrollbar may be stuck at the bottom
+
+
+
 # SuperEditor 1.8.3
 
 ## Features
