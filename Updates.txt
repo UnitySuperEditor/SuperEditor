@@ -1,3 +1,15 @@
+# SuperEditor 2.0.0
+
+## Features
+- Create a brand-new workflow - Quick Mode that avoids the problem of too many Windows and greatly improves the user experience. This mode is inspired by Roblox Studio's built-in IDE and Xcode, No double click, just one click.
+- You can switch between Quick Mode and Old Mode with one click in Settings
+
+## Changes
+- Readd the Close Tabs to the Right method, and partially simplified it
+- Internal architecture adjustment and code optimization
+
+
+
 # SuperEditor 1.8.4
 
 ## Features
@@ -13,6 +25,8 @@
 - Fix tooltip pressing up and down keys to see overloaded function descriptions disappear
 - Fix code template function index overflow
 - Fix Ctrl/Cmd + S shortcut key failure when search bar is selected
+
+
 
 # SuperEditor 1.8.3
 
