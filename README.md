@@ -4,7 +4,7 @@
 
 ![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor1.8.3.gif)
 
-Super Editor is a versatile Unity editor extension that includes a powerful, easy-to-use built-in IDE, Hierarchy enhancements, and Favorite enhancements，These three modules are useful tools for almost any Unity project.
+Super Editor project is an enhancement plan to make Unity versatile and streamlined.
 
 **Free to download from 
 [Here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v2.0.0/SuperEditor2.0.0.unitypackage) or
@@ -16,7 +16,9 @@ Unity 2019.4.0f1 or newer
 
 ## Description
 
-Super Editor is a versatile Unity editor extension that includes three modules: 
+**Super Editor project is an enhancement plan to make Unity, the world's most popular game engine, versatile and streamlined.**
+
+Super Editor includes three modules: 
 
 1. A Super IDE, 
 
@@ -24,7 +26,11 @@ Super Editor is a versatile Unity editor extension that includes three modules:
 
 3. A Super Favorites.
 
-Unity's built-in IDE contains code Automatic completion, keyword searching and replacing, custom themes, and so on. You don't need to switch visual studio or VS Code anymore,because it was created specifically for Unity. You just need to drag and drop Super Editor into your project, development projects become a treat.
+These three modules are useful tools for almost any Unity project.
+
+You don't need to switch visual studio or VS Code anymore,because it was created specifically for Unity. 
+
+You just need to drag and drop Super Editor into your project, development projects become a treat.
 
 ![Tooltip](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor2.0.0.gif)
 
