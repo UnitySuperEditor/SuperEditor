@@ -12,7 +12,7 @@ Super Editor project is an enhancement plan to make Unity versatile and streamli
 
 ## Requirement
 
-Unity 2019.4.0f1 or newer
+**Unity 2019.4.0f1 or newer**
 
 ## Description
 
