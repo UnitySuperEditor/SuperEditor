@@ -26,10 +26,6 @@ Super Editor includes three modules:
 
 3. A Super Favorites.
 
-These three modules are useful tools for almost any Unity project.
-
-You don't need to switch visual studio or VS Code anymore,because it was created specifically for Unity. 
-
 You just need to drag and drop Super Editor into your project, development projects become a treat.
 
 ![Tooltip](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor2.0.0.gif)
