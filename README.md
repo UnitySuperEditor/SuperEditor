@@ -1,4 +1,7 @@
-[![Super Editor logo][]][assetstore]
+[![Super Editor Logo]][assetstore]
+
+[Super Editor logo]: https://github.com/UnitySuperEditor/SuperEditor/blob/master/SuperEditorLogo.jpg
+[assetstore]: https://assetstore.unity.com/packages/tools/utilities/super-editor-190349
 
 ## **Unity + Super Editor = The Coolest Game Engine In The World** ##
 
@@ -6,9 +9,7 @@
 
 Super Editor project is an enhancement plan to make Unity versatile and streamlined.View it on the [Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
 
-**[Free to download from 
-here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v2.0.0/SuperEditor2.0.0.unitypackage)**
-
+**[Free to download from here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v2.0.0/SuperEditor2.0.0.unitypackage)**
 
 ## Requirement
 
@@ -34,7 +35,3 @@ You just need to drag and drop Super Editor into your project, development proje
 Use AI to write programs
 
 In a future version of Super Editor, you will be able to use tooltip to connect to all of the algorithms commonly used on the Internet and modular functions commonly used in games. You will also be able to connect to your own private AI, also known as AI writing programs. This feature will greatly improve your creative ability.
-
-[Super Editor logo]: https://github.com/UnitySuperEditor/SuperEditor/blob/master/SuperEditorLogo.jpg
-[assetstore]: https://assetstore.unity.com/packages/tools/utilities/super-editor-190349
-
