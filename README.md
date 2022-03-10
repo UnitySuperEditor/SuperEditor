@@ -4,7 +4,7 @@
 
 ![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor1.8.3.gif)
 
-Super Editor project is an enhancement plan to make Unity versatile and streamlined.View it on the [Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
+Super Editor project is an enhancement plan to make Unity versatile and streamlined.View it on the [Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
 
 **[Free to download from 
 Here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v2.0.0/SuperEditor2.0.0.unitypackage)**
