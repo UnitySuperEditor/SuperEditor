@@ -2,7 +2,7 @@
 
 ## **Unity + Super Editor = The Coolest Game Engine In The World** ##
 
-![TheCoolestUnity](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor1.8.3.gif)
+![SuperEditor1.x](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor1.8.3.gif)
 
 Super Editor project is an enhancement plan to make Unity versatile and streamlined.View it on the [Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
 
@@ -28,7 +28,7 @@ Super Editor includes three modules:
 
 You just need to drag and drop Super Editor into your project, development projects become a treat.
 
-![Tooltip](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor2.0.0.gif)
+![SuperEditor2.x](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor2.0.0.gif)
 
 ## Vision
 Use AI to write programs
