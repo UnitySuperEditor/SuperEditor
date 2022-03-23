@@ -27,7 +27,7 @@ Super Editor includes three modules:
 
 3. A Super Favorites.
 
-You just need to drag and drop Super Editor into your project, development projects become a treat.
+You just need to drag and drop Super Editor into your project, your project can use these three super lightweight modules cross-platform on Mac/Windows/Linux(Ubuntu tested) systems without having to install a huge external IDE on each system, development projects become a treat.
 
 ![SuperEditor2.x](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor2.0.0.gif)
 
