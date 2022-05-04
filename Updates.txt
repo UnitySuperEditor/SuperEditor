@@ -1,11 +1,9 @@
-# SuperEditor 2.0.1
-
-## Features
-- Go to line window adds display line number, unified Mac/Windows/Linux shortcuts, optimize user experience
+# SuperEditor 2.0.2
 
 ## Changes
-- Old Mode takes the traditional Unity workflow mode of double-clicking the script to open the external IDE and only upgrades Unity Inspector's display
-- Super Hierarchy displays only components by default
+- Super Favorites adds a text prompt in the middle for a better new-user experience
 
 ## Bug Fixes
-- Fix redundant preview effects for multiple file selections
+- Fix Super Favorites drag error in Unity 2021.2 or later
+- Fix the bad experience of reference window in Super Editor 2.x and simplified up and down key shortcuts to jump quickly
+- Fix an error in automatic update detection when downloading is not complete
