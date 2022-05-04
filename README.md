@@ -9,7 +9,7 @@
 
 Super Editor project is an enhancement plan to make Unity versatile and streamlined.View it on the [Asset Store](https://assetstore.unity.com/packages/tools/utilities/super-editor-190349)
 
-**[Free to download from here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v2.0.1/SuperEditor2.0.1.unitypackage)**
+**[Free to download from here](https://github.com/UnitySuperEditor/SuperEditor/releases/download/v2.0.2/SuperEditor2.0.2.unitypackage)**
 
 ## Requirement
 
