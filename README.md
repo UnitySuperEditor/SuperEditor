@@ -31,6 +31,9 @@ You just need to drag and drop Super Editor into your project, your project can 
 
 ![SuperEditor2.x](https://github.com/UnitySuperEditor/SuperEditor/blob/master/Gif%20Tutorials/SuperEditor2.0.0.gif)
 
+## Motivation
+Stuffing editor extensions of different design concepts into my Unity Editor in the resource-rich Asset Store has made my Unity cluttered and unendurable, and I hope this editor enhancement plan will make Unity more efficient and focused while keeping it simple and elegant.
+
 ## Vision
 Use AI to write programs
 
